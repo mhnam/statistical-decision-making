@@ -1,0 +1,16 @@
+# Statistical Decision Making (45-752) - Python Dependencies
+# For local setup only. Colab users do not need this file.
+#
+# Usage:
+#   pip install -r requirements.txt
+
+# tprstats (course-specific package)
+tprstats @ git+https://github.com/dnepple/tprstats-python@colab
+
+# Core dependencies (also installed by tprstats, listed for clarity)
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+openpyxl
