@@ -20,9 +20,6 @@ venv/
 *_solution.*
 *_solution_*
 
-# ====== Sensitive / student-specific data ======
-data/Assign1_Question2_Data_2026.xlsx
-
 # ====== Legacy course materials (local reference only) ======
 legacy/
 
